@@ -155,3 +155,5 @@ Indentation will result in nested lists.
 ### Ordered lists
 1. Use numbers followed by periods to create ordered list items.
 2. Indentation is used to create nested lists.
+1. The number is automatically advanced even if you imposed the same number across different list items.
+4. It does not matter what numerical value you use for the list items as it will increment appropriately.u
