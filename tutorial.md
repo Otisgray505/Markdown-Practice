@@ -133,3 +133,25 @@ This headline is created using hiphen
     Include thumbnail-ready titles (3–4 bold words, stacked format)
 
     Build a first-pass script in Canvas
+
+## Thematic breaks and horizontal rules
+
+Either hyphen (-) or asterisk (*) can be used to create thematic breaks or horizontal rules.
+
+## Using lists
+
+### Unordered lists
+- Use asterisks (*), plus signs (+), or hyphens (-) to create unordered list items.
+- Indentation is used to create nested lists.
+
+Incorporate different list styles for variety of list combinations.
+
+Indentation will result in nested lists.
+- This is an outer list
+  - This is a nested list item.
+  + Same as here
+  * And here
+
+### Ordered lists
+1. Use numbers followed by periods to create ordered list items.
+2. Indentation is used to create nested lists.
