@@ -1,4 +1,7 @@
- pplication:
+<link rel="stylesheet" type="text/css" href="tutorial.css">
+
+# Application:
+
 Block post
 Video Script
 AI prompt
@@ -156,4 +159,43 @@ Indentation will result in nested lists.
 1. Use numbers followed by periods to create ordered list items.
 2. Indentation is used to create nested lists.
 1. The number is automatically advanced even if you imposed the same number across different list items.
-4. It does not matter what numerical value you use for the list items as it will increment appropriately.u
+4. It does not matter what numerical value you use for the list items as it will increment appropriately.
+
+## Links - Auto links, inline links, and link references
+### Auto links
+My Github
+https://github.com/OllyTroyfan (This is an auto clickable link)
+
+### Inline links
+Brackets [ ] and ( ) are used to create inline links.
+
+[Github](https://github.com/OllyTroyfan/ "Visit and View my Github Profile")
+
+    You can incorporate title for the hyperlinks if you enter texts within the single/double quotes.
+
+### Reference Links (Similar to intext reference)
+[My Profile][1]
+    
+[1]: https://github.com/OllyTroyfan
+
+You can enter any characters (Must ensure the references to be synchronized).
+
+---
+
+## Images
+> The following is an example of an image in Markdown
+
+[![MG logo](https://www.markdownguide.org/assets/images/markdown-mark-white.svg 'Markdown Guide Logo')](https://www.markdownguide.org/)
+
+
+> Reference can be incorporated similar to Link references
+
+    [Markdown image]: https://www.markdownguide.org/assets/images/markdown-mark-white.svg 'Markdown Guide Logo'
+
+[Markdown image]: https://www.markdownguide.org/assets/images/markdown-mark-white.svg 'Markdown Guide Logo'
+
+[![MG logo][Markdown image]](https://www.markdownguide.org/)
+
+
+## Using HTML and CSS in Markdown
+
