@@ -188,7 +188,7 @@ You can enter any characters (Must ensure the references to be synchronized).
 [![MG logo](https://www.markdownguide.org/assets/images/markdown-mark-white.svg 'Markdown Guide Logo')](https://www.markdownguide.org/)
 
 
-> Reference can be incorporated similar to Link references
+> Reference can be incorporated similarly to Link references
 
     [Markdown image]: https://www.markdownguide.org/assets/images/markdown-mark-white.svg 'Markdown Guide Logo'
 
@@ -208,6 +208,19 @@ You can enter any characters (Must ensure the references to be synchronized).
     <p style="font-size: 1.2em; color: #cb1d1dff;">Seo Li</p>
   </div>
 </div>  
+
+```html
+<div style="display: flex; justify-content: center; align-items: center;">
+  <div style="margin: 10px; text-align: center;">
+    <img src="https://static.wikia.nocookie.net/regressors-tale-of-cultivation/images/3/34/SeoEun.jpg/revision/latest?cb=20240529053438" alt="Seo Eun-hyun" style="max-width:2000px; max-height:500px;">
+    <p style="font-size: 1.2em; color: #b6afafff;">Seo Eun-hyun</p>
+  </div>
+  <div style="margin: 10px; text-align: center;">
+    <img src="https://static.wikia.nocookie.net/regressors-tale-of-cultivation/images/c/c5/Seo_Li.png/revision/latest?cb=20240726222255" alt="Seo Li" style="max-width:2000px; max-height:500px;">
+    <p style="font-size: 1.2em; color: #cb1d1dff;">Seo Li</p>
+  </div>
+</div>  
+```
 
 ## Creating Table
 | Header 1 | Header 2 | Header 3 |
